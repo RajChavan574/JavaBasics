@@ -33,3 +33,6 @@ public class SortingOfAlpha
 }
 
 //create a array of length 5
+//Q.check if the given string only consist of alphabet.
+//Q.check if the given string only consist of digit.
+//Q. find out the average value present in the given string.

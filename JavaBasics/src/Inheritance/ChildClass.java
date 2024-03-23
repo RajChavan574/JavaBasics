@@ -1,9 +1,10 @@
 package Inheritance;
-
+//static methods and non-static methods
+//no constructors
 
 class ParentClass
 {
-	static void add()
+	static void parent()
 	{
 		System.out.println("Hey I am parent class method");
 	}
