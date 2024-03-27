@@ -1,4 +1,4 @@
-package JavaProgram; //developing multiple methods in same name but variation in the argument is list.
+package MethodOverload; //developing multiple methods in same name but variation in the argument is list.
 					// we can overload static as well as non static method.
 
 public class MethodOverloading 
