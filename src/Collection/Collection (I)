@@ -1,0 +1,23 @@
+Collection (I) :
+-----------------
+Collection is basically a framework which makes addition, deletion, updation and fetching the result easiler.
+in collection you have so many methods like Add, Remove, Clear, get, etc.that helps us to perform the "CRUD"(create, read, update, delete)functionality. 
+
+Collection is basically a interface which has so many classes and interfaces in it.
+
+
+*what are the advantages of Collection?
+-----------------------------------------
+1.Collection is dynamic in nature. (i.g. stomach is dynamic in nature)
+2.Collection can store both homogenous values as well as hetrogenous values. 
+
+
+
+
+API - Application Programming Interface (backend logic or internal logic)
+
+
+
+Q. How this classes are different from each other ?
+
+Q. how this interfaces different here ?

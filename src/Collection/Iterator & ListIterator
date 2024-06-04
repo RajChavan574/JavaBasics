@@ -1,0 +1,13 @@
+Iterator:-
+-----------
+1.Return Type of Iterator(I)
+2.Application to the whole collection
+3.The Iterator methods are next, hasnext.
+
+
+
+ListIterator:-
+---------------
+1.Return type of ListItrator(I)
+2.only to the list interface
+3.The ListItrator methods are next, hasnext, previous, next previous.

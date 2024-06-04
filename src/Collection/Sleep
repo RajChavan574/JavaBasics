@@ -1,0 +1,2 @@
+Q. how to make the program sleep for any time ?
+->> this can be done using class called as thread and using its method called as sleep.
